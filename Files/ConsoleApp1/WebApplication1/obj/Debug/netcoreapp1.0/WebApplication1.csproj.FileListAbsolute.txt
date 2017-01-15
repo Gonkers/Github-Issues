@@ -1,0 +1,8 @@
+C:\Users\Gonkers\Development\ConsoleApp1\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.deps.json
+C:\Users\Gonkers\Development\ConsoleApp1\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.runtimeconfig.json
+C:\Users\Gonkers\Development\ConsoleApp1\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Gonkers\Development\ConsoleApp1\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.dll
+C:\Users\Gonkers\Development\ConsoleApp1\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.pdb
+C:\Users\Gonkers\Development\ConsoleApp1\WebApplication1\obj\Debug\netcoreapp1.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Gonkers\Development\ConsoleApp1\WebApplication1\obj\Debug\netcoreapp1.0\WebApplication1.dll
+C:\Users\Gonkers\Development\ConsoleApp1\WebApplication1\obj\Debug\netcoreapp1.0\WebApplication1.pdb

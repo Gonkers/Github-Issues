@@ -1,0 +1,9 @@
+C:\Users\Gonkers\Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.0\ConsoleApp1.deps.json
+C:\Users\Gonkers\Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Gonkers\Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Gonkers\Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.0\ConsoleApp1.dll
+C:\Users\Gonkers\Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.0\ConsoleApp1.pdb
+C:\Users\Gonkers\Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Gonkers\Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Gonkers\Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.0\ConsoleApp1.dll
+C:\Users\Gonkers\Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.0\ConsoleApp1.pdb
